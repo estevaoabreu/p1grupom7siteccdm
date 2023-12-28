@@ -1,24 +1,24 @@
 @font-face {
     font-family: Montserrat;
-    src: url(/fonts/Montserrat-Regular.ttf);
+    src: url(./fonts/Montserrat-Regular.ttf);
     font-weight: 400;
 }
 
 @font-face {
     font-family: Montserrat;
-    src: url(/fonts/Montserrat-SemiBold.ttf);
+    src: url(./fonts/Montserrat-SemiBold.ttf);
     font-weight: 600;
 }
 
 @font-face {
     font-family: Montserrat;
-    src: url(/fonts/Montserrat-Bold.ttf);
+    src: url(./fonts/Montserrat-Bold.ttf);
     font-weight: 700;
 }
 
 @font-face {
     font-family: Montserrat;
-    src: url(/fonts/Montserrat-Black.ttf);
+    src: url(./fonts/Montserrat-Black.ttf);
     font-weight: 900;
 }
 
@@ -29,14 +29,12 @@ html {
 }
 
 p {
-  font-family: Montserrat, sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 150%;
 }
 
 h1, a {
-  font-family: Montserrat, sans-serif;
   font-weight: 700;
 }
 
@@ -45,17 +43,14 @@ h1 {
 }
 
 h2 {
-  font-family: Montserrat, sans-serif;
   font-weight: 900;
 }
 
 b {
-  font-family: Montserrat, sans-serif;
   font-weight: 600;
 }
 
 h3 {
-  font-family: Montserrat, sans-serif;
   font-weight: 600;
 }
 
